@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * 
  */
-public abstract class Customer {
+public class Customer {
 
     /**
      * Default constructor
